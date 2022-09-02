@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+#cabecalho {
+  top: 0;
+  position: fixed;
+  z-index: 1;
+}
+
+#titulo {
+  top: 0;
+}
+
+#rodape {
+  text-decoration: none;
+  position: absolute;
+  top: 1250px;
+  bottom: 0;
+}
+
+#minha_foto {
+  position: absolute;
+  top: 60px;
+}
+
+.listas {
+  position: absolute;
+  top: 760px;
+}
+
+.about-me {
+  position: absolute;
+  top: 500px;
+}
+
+.aside-1 {
+  position: absolute;
+  top: 650px;
+}
+
+.nav {
+  position: absolute;
+  top: 480px;
+  text-decoration: none;
+}
